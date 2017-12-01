@@ -6,6 +6,7 @@ import Education from './Education';
 import Skills from './Skills';
 import Interests from './Interests';
 import Awards from './Awards';
+import './Appp/css';
 import './resume.css';
 import './resume.min.css';
 
